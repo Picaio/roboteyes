@@ -27,7 +27,8 @@ Este proyecto presenta una animación de ojos robóticos utilizando un Arduino U
 
 ## Ejemplo de Esquemático 📋
 
-![Esquemático](schematic.png)
+![Esquemático](<img width="709" alt="image" src="https://github.com/Picaio/roboteyes/assets/28027041/8a60eb28-30d1-43f9-b9a6-f326688224b2">
+)
 
 ## Contribuciones 🚀
 
