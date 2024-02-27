@@ -31,7 +31,7 @@ Este proyecto presenta una animación de ojos robóticos utilizando un Arduino U
 
 ## Créditos 🙌
 
-Este proyecto fue creado por [Tu Nombre] y está inspirado en trabajos previos de la comunidad de Arduino y robótica.
+Este proyecto fue creado por [PICAIO SAS] y está inspirado en trabajos previos de la comunidad de Arduino y robótica.
 
 ## Licencia 📝
 
